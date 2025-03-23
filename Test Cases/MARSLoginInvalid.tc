@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MARSLoginInvalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0c0ab25-5903-4dfe-83c9-a02ec519552b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Invalid usernamepassword</name>
+   <tag></tag>
+   <elementGuidId>9eb04ae0-c747-4abc-bd2a-48655defb2bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//clr-alert[@id='login-error']/div/div/clr-alert-item/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.alert-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e3f77e60-b432-48b8-905f-ea3b468d3121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-text</value>
+      <webElementGuid>b663685f-2ca3-43c6-8d53-3f2ddbfa107e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid username/password</value>
+      <webElementGuid>5423aad6-4014-4d87-a1bd-f1f5e0024d8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-error&quot;)/div[@class=&quot;alert alert-danger ng-star-inserted&quot;]/div[@class=&quot;alert-items&quot;]/clr-alert-item[@class=&quot;alert-item&quot;]/span[@class=&quot;alert-text&quot;]</value>
+      <webElementGuid>59b42b50-6929-478d-81ee-f9f223bc87c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//clr-alert[@id='login-error']/div/div/clr-alert-item/span</value>
+      <webElementGuid>21c4b0d2-c323-4416-9e97-942c36baaaee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>f2f1adc5-ba58-4fdf-97ca-b369c035b6a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/following::span[1]</value>
+      <webElementGuid>0585b518-b0fa-4059-8b3a-50c959179e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I forgot my password'])[1]/preceding::span[1]</value>
+      <webElementGuid>20024e0d-9719-4226-827c-6a1250db88ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[1]</value>
+      <webElementGuid>0dbe9f51-09e4-4118-943e-2970f8efb2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid username/password']/parent::*</value>
+      <webElementGuid>d63db70c-ea3f-4783-a4a8-3a13eb75320b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>b20a0727-5ab1-46e7-a2bf-3354d3c1be3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Invalid username/password' or . = 'Invalid username/password')]</value>
+      <webElementGuid>23509f83-3185-49e3-8636-6dc10446519e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

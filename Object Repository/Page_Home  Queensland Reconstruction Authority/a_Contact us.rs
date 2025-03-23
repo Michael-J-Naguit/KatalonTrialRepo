@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact us</name>
+   <tag></tag>
+   <elementGuidId>79a4a1f2-5550-408a-811d-53835fd3d042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='block-topmenu']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6062ed14-240e-4817-813b-edc27c6e6d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/about-us/contact-us</value>
+      <webElementGuid>5037c185-fca5-4a01-bd8d-2d9b8fced095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>node/58</value>
+      <webElementGuid>6712adde-59b0-4218-8429-198bcc604495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact us</value>
+      <webElementGuid>ce3ac75c-d7b3-4417-be61-d603ec69c8dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-topmenu&quot;)/ul[@class=&quot;menu&quot;]/li[@class=&quot;menu-item&quot;]/a[1]</value>
+      <webElementGuid>560ab0c7-cb46-4df4-944b-95b31072ac63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='block-topmenu']/ul/li[2]/a</value>
+      <webElementGuid>ef262dd9-ee23-4969-b8da-817ae0e90118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Contact us')])[2]</value>
+      <webElementGuid>1587c0f8-3386-41de-803b-e6486539e7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site map'])[1]/following::a[1]</value>
+      <webElementGuid>de2b6263-ee99-478b-8cbd-99f9518b3fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top menu'])[1]/following::a[2]</value>
+      <webElementGuid>6b8d7fbf-1e63-49e0-a40f-85cdf7a24441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::a[1]</value>
+      <webElementGuid>97fbf2f0-4053-49f1-a41c-28e60a066c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::a[3]</value>
+      <webElementGuid>a3a78756-4d09-4330-b99a-4f44c6ca302e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/about-us/contact-us')])[2]</value>
+      <webElementGuid>8094209a-8b7a-4f26-b2b6-1f6acdb5db93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav[2]/ul/li[2]/a</value>
+      <webElementGuid>ec31acfb-812e-4a68-9119-af51cd03c233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/about-us/contact-us' and (text() = 'Contact us' or . = 'Contact us')]</value>
+      <webElementGuid>da2a6028-cd51-4d39-bdf3-df93428b0f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
